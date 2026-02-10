@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 💫 About Me:
 Cybersecurity practitioner focused on penetration testing, network reconnaissance, and security automation. Building tools that improve red-team efficiency and reporting.
